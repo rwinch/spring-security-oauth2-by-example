@@ -1,0 +1,13 @@
+logging:
+  level:
+    reator:
+      netty:
+        channel: DEBUG
+
+spring:
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true
+users-url: http://localhost:8081/users
+messages-url: http://localhost:8082/messages
