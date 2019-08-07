@@ -21,4 +21,4 @@ spring:
             client-id: spring-security
             client-secret: bfbd9f62-02ce-4638-a370-80d45514bd0a
 users-url: http://localhost:8081/users
-messages-url: http://localhost:8082/messages
+messages-url: http://localhost:9090/messages
